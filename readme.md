@@ -29,3 +29,5 @@ We would like you to design a module that generates the FizzBuzz array.
 ### To Start
 
 All you have to do is clone this repository, then perform ```npm install```, then begin writing your first test in the folder ```fizz-buzz-test.js```
+
+To run your tests type ```npm run test``` in a node shell.
