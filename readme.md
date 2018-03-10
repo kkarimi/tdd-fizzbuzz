@@ -25,3 +25,7 @@ We would like you to design a module that generates the FizzBuzz array.
 - The program should change the array item to FizzBuzz for multiple of 3 and 5
 
 - The program should allow the user to reverse the array and delete all FizzBuzz items
+
+### To Start
+
+All you have to do is clone this repository, then perform ```npm install```, then begin writing your first test in the folder ```fizz-buzz-test.js```
