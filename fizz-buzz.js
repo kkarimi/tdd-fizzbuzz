@@ -14,7 +14,7 @@ export default class FizzBuzz {
 
   /**
    * Check FizzBuzz result for given inputs.
-   * @return {string} Fizz, Buzz, FizzBuzz
+   * @return {array} Fizz, Buzz, FizzBuzz
    */
   check() {
     if (this._checkOneToTen(this.inputArray)) {
